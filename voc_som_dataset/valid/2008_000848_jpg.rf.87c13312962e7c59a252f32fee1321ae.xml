@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2008_000848_jpg.rf.87c13312962e7c59a252f32fee1321ae.jpg</filename>
+	<path>2008_000848_jpg.rf.87c13312962e7c59a252f32fee1321ae.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>298</xmin>
+			<xmax>357</xmax>
+			<ymin>281</ymin>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG-20170412-WA0011_jpg.rf.e357844a9091ede264a95764a7408a10.jpg</filename>
+	<path>IMG-20170412-WA0011_jpg.rf.e357844a9091ede264a95764a7408a10.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>som</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>152</xmin>
+			<xmax>282</xmax>
+			<ymin>219</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

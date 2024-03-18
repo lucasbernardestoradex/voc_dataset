@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_5134_jpg.rf.eddc23be5f55a62380edf46402283037.jpg</filename>
+	<path>IMG_5134_jpg.rf.eddc23be5f55a62380edf46402283037.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>som</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>264</xmin>
+			<xmax>518</xmax>
+			<ymin>157</ymin>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

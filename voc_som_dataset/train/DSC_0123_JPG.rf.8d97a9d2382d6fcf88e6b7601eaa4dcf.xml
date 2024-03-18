@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DSC_0123_JPG.rf.8d97a9d2382d6fcf88e6b7601eaa4dcf.jpg</filename>
+	<path>DSC_0123_JPG.rf.8d97a9d2382d6fcf88e6b7601eaa4dcf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>som</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>622</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
